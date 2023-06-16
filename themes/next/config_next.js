@@ -27,7 +27,7 @@ const CONFIG_NEXT = {
 
   WIDGET_TO_TOP: true, // 是否显示回顶
   WIDGET_TO_BOTTOM: false, // 显示回底
-  WIDGET_DARK_MODE: false, // 显示日间/夜间模式切换
+  WIDGET_DARK_MODE: true, // 显示日间/夜间模式切换
   WIDGET_TOC: true, // 移动端显示悬浮目录
   WIDGET_PET: false, // 是否显示宠物挂件
   WIDGET_PET_LINK: 'https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json', // 挂件模型地址 @see https://github.com/xiazeyu/live2d-widget-models
